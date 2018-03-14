@@ -1,3 +1,3 @@
 # Cerberus-Cipher
 
-Program to encrypt / decrypt words and files quickly using basic methods of encryption. 
+Program to quickly and efficiently encrypt and/or decrypt strings or files using basic methods of encryption

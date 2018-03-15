@@ -1,5 +1,5 @@
 def main():
     banner()
 
-
+main()
 

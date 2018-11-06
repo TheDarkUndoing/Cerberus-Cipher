@@ -1,5 +1,7 @@
+import banner
+
 def main():
-    banner()
+    banner.banner()
 
 main()
 
